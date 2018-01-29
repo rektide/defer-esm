@@ -2,7 +2,7 @@ export function DeferEsm(){
 	var
 	  _res,
 	  _rej
-	  promsie= new Promise(function( resolve, reject)=>{
+	  promsie= new Promise(function( resolve, reject){
 		_res= resolve
 		_rej= reject
 	  })
