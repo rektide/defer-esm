@@ -1,6 +1,6 @@
 {
 	"name": "defer-esm",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "",
 	"main": "defer-esm.js",
 	"scripts": {
